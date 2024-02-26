@@ -12,7 +12,10 @@
 
 @media (max-width: 768px) {
   .navbar {
-    height: 100px; 
+    height: 200px;
+  }
+  .navbar-brand {
+    line-height: 100px;
   }
 }
 .navbar-nav {
