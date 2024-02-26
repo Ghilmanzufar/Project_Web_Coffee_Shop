@@ -10,6 +10,11 @@
   justify-content: center;
 }
 
+@media (max-width: 768px) {
+  .navbar {
+    height: 100px; 
+  }
+}
 .navbar-nav {
   display: flex;
   justify-content: center;
