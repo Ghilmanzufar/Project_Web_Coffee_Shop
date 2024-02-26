@@ -8,20 +8,9 @@
 .navbar {
   display: flex;
   justify-content: center;
+  height:200px;
 }
 
-@media (max-width: 768px) {
-  .navbar {
-    height: 200px;
-  }
-  .navbar-brand {
-    line-height: 100px;
-  }
-}
-.navbar-nav {
-  display: flex;
-  justify-content: center;
-}
 .navbar-brand {
   padding: 0 15px;
   line-height: 80px;
