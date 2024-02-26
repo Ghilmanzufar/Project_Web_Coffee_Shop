@@ -8,7 +8,6 @@
 .navbar {
   display: flex;
   justify-content: center;
-  minheight: 40px;
 }
 
 .navbar-nav {
