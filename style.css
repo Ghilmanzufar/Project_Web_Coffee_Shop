@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  minheight: 40px;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+}
+.navbar-brand {
+  padding: 0 15px;
+  line-height: 80px;
+}
+.navbar-toggle {
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
+.nav-item {
+  margin-right: 30px;
+}
+
+.order-button {
+  padding: 5px 10px;
+  border: none;
+  text-align: center;
+}
+
+.centered-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#logoBrand {
+  height: 90px;
+  width: 100px;
+}
